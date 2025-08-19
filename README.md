@@ -4,7 +4,7 @@ An application for finding people of your same interest
 
 ## Description
 
-StudyMate is a cutting-edge mobile and web application designed to bring together individuals with similar knowledge bases and interests. This platform aims to create a community where users can connect, collaborate, and grow through shared learning experiences.
+StudyMate is a cutting-edge  web application designed to bring together individuals with similar knowledge bases and interests. This platform aims to create a community where users can connect, collaborate, and grow through shared learning experiences.
 
 Key Features:
 
